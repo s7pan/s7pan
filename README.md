@@ -52,7 +52,7 @@ Here's a snapshot of some projects I've been involved in:
 
 - **Learning & Growth:** Continuously expand my knowledge in robotics, control systems, and other emerging technologies like AI! 
 - **Project Development:** Start new exciting projects and collaborate with peers.
-- **Ongoing Updates:** I will continue to work on and update this page as I achieve new milestones—stay tuned for more updates!
+- **Ongoing Updates:** I will continue to work on and upload my projects as I achieve new milestones—stay tuned for more updates!
 
 ---
 
